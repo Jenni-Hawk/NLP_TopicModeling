@@ -27,5 +27,15 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 #### Sentiment Analysis with VADER
 - Applied to entire conversation and individual topic
 
+#### Findings
+Check out the presentation
 
+#### Tech Tools Used
+- Tweepy
+- NLTK
+- Sklearn
+- Gensim
+- VADER
+- Regex
+- Pandas
 
