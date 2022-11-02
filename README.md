@@ -28,7 +28,7 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 - [Applied to entire conversation and an individual topic](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/5_Sentiment_Analysis.ipynb)
 
 #### Findings
-Check out the presentation
+Check out the [presentation](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/NLP_Presentation.pdf)
 
 #### Tech Tools Used
 - Tweepy
