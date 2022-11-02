@@ -16,7 +16,7 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 #### Twitter API
 - Configured & Tested
 #### Get Tweets
-- Via Tweepy Used Twitter API
+- [Via Tweepy Used Twitter API](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/1_Acquire_Data_PreProcess.ipynb)
 #### Preprocessing
 - Removed special characters, punctuation, etc
 #### Topic Modeling 
