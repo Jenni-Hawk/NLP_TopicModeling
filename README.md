@@ -21,7 +21,7 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 - Removed special characters, punctuation, etc
 #### Topic Modeling 
 - Unsupervised learning and rules based approaches
-- LSA with CountVectorizer & LSA with TF-IDF
+- [LSA with CountVectorizer & LSA with TF-IDF](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/2_TopicModel_LSA_CountVec_TDIF.ipynb)
 - LDA with CountVectorizer
 - LDA with Bigrams
 #### Sentiment Analysis with VADER
