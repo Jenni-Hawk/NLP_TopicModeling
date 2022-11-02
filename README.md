@@ -23,7 +23,7 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 - Unsupervised learning and rules based approaches
 - [LSA with CountVectorizer & LSA with TF-IDF](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/2_TopicModel_LSA_CountVec_TDIF.ipynb)
 - [LDA with CountVectorizer](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/3_TopicModel_LDA_CountVec.ipynb)
-- LDA with Bigrams
+- [LDA with Bigrams](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/4_TopicModel_LDA_Bigrams.ipynb)
 #### Sentiment Analysis with VADER
 - Applied to entire conversation and individual topic
 
