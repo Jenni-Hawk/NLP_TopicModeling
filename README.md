@@ -14,11 +14,11 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 
 # Solution Path
 
-#### 01 [Get Tweets + Data Preprocessing](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/1_Acquire_Data_PreProcess.ipynb)
+#### [Get Tweets + Data Preprocessing](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/1_Acquire_Data_PreProcess.ipynb)
 - Utilized Tweepy Python library to access the Twitter API to acquire tweets
 - Removed special characters, punctuation, etc
 
-#### 02 Topic Modeling 
+#### Topic Modeling 
 - Unsupervised learning and rules based approaches
 - [LSA with CountVectorizer & LSA with TF-IDF](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/2_TopicModel_LSA_CountVec_TDIF.ipynb)
 - [LDA with CountVectorizer](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/3_TopicModel_LDA_CountVec.ipynb)
