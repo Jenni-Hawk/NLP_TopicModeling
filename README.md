@@ -14,9 +14,13 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 
 # Solution Path
 
-#### [Get Tweets + Data Preprocessing](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/1_Acquire_Data_PreProcess.ipynb)
+#### [Get Tweets + Data Clean](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/1_Acquire_Data_PreProcess.ipynb)
 - Utilized Tweepy Python library to access the Twitter API to acquire tweets
 - Removed special characters, punctuation, etc
+
+### Preprocess the Text Data
+- Tokenize
+- Remove Stop Words
 
 #### Topic Modeling 
 - Unsupervised learning and rules based approaches
