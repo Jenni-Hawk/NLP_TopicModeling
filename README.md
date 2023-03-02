@@ -18,7 +18,7 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 - Utilized Tweepy Python library to access the Twitter API to acquire tweets
 - Removed special characters, punctuation, etc
 
-### Preprocess the Text Data
+#### Preprocess the Text Data
 - Tokenize
 - Remove Stop Words
 - Vectorize with CountVectorizer
