@@ -21,6 +21,7 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 ### Preprocess the Text Data
 - Tokenize
 - Remove Stop Words
+- Vectorize with CountVectorizer
 
 #### Topic Modeling 
 - Unsupervised learning and rules based approaches
