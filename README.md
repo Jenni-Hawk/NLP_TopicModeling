@@ -22,7 +22,7 @@ The approach was to use several different algorithms to determine which most cle
 #### Preprocess the Text Data
 - Tokenize
 - Remove Stop Words
-- Vectorized in two ways to determine which would yield best clarity: 
+- Vectorized in two ways to determine which would yield best topic clarity: 
   * **CountVectorizer:** Counts the number of times a word appears in a document (bag-of-words)
   * **TF-IDF Vectorizer:** The percent of the document that consists of a particular term (Term Frequency) AND heavier weighting of rare words. Use this approach because some words are better distinguishers of the documents than just highest freqency words. 
   
