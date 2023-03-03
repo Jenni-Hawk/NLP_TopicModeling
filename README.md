@@ -13,6 +13,7 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 - 35,000 Tweets / Retweets
 
 # Solution Path
+The approach was to use several different algorithms to determine which could most clearly uncover the different topics within the tweets
 
 #### [Get Tweets + Data Clean](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/1_Acquire_Data_PreProcess.ipynb)
 - Utilized Tweepy Python library to access Twitter API and acquire tweets
@@ -22,6 +23,7 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 - Tokenize
 - Remove Stop Words
 - Vectorize with CountVectorizer
+- Vectorize with TfidfVectorizer
 
 #### Topic Modeling 
 - Unsupervised learning and rules based approaches
