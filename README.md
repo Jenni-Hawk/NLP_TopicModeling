@@ -22,8 +22,9 @@ The approach was to use several different algorithms to determine which could mo
 #### Preprocess the Text Data
 - Tokenize
 - Remove Stop Words
-- Vectorize with CountVectorizer
-- Vectorize with TfidfVectorizer
+- Vectorized in two different ways to determine which would yield the best clarity: 
+-   CountVectorizer
+-   TF-IDF Vectorizer
 
 #### Topic Modeling 
 - Unsupervised learning and rules based approaches
