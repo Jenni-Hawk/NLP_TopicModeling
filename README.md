@@ -24,7 +24,7 @@ The approach was to use several different algorithms to determine which most cle
 - Remove Stop Words
 - Vectorized in two different ways to determine which would yield best clarity: 
   * **CountVectorizer:** Counts the number of times a word appears in a document (bag-of-words)
-  * TF-IDF Vectorizer: How many times a word appears in a document AND how relevant a word is to a document in a collection of documents
+  * **TF-IDF Vectorizer:** How many times a word appears in a document AND how relevant a word is to a document in a collection of documents
 
 #### Topic Modeling 
 Created several models to compare and contrast:
