@@ -22,7 +22,7 @@ The approach was to use several different algorithms to determine which could mo
 #### Preprocess the Text Data
 - Tokenize
 - Remove Stop Words
-- Vectorized in two different ways to determine which would yield the best clarity: 
+- Vectorized in two different ways to determine which would yield best clarity: 
   * CountVectorizer
   * TF-IDF Vectorizer
 
