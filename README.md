@@ -13,7 +13,7 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 - 35,000 Tweets / Retweets
 
 # Solution Path
-The approach was to use several different algorithms to determine which could most clearly uncover the different topics within the tweets. VADER sentiment ananlysis was applied to determine how that tool interpreted the sentiment of the conversation.
+The approach was to use several different algorithms to determine which most clearly uncovers the different topics within the tweets. VADER sentiment ananlysis was applied to determine how that tool interpreted the sentiment of the conversation.
 
 #### [Get Tweets + Data Clean](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/1_Acquire_Data_PreProcess.ipynb)
 - Utilized Tweepy Python library to access Twitter API and acquire tweets
@@ -23,8 +23,8 @@ The approach was to use several different algorithms to determine which could mo
 - Tokenize
 - Remove Stop Words
 - Vectorized in two different ways to determine which would yield best clarity: 
-  * CountVectorizer
-  * TF-IDF Vectorizer
+  * CountVectorizer: Counts the number of times a word appears in a document (bag-of-words)
+  * TF-IDF Vectorizer: How many times a word appears in a document AND importance the word is to entire corpus
 
 #### Topic Modeling 
 Created the following models to compare and contrast:
