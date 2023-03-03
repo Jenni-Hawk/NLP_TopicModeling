@@ -24,8 +24,8 @@ The approach was to use several different algorithms to determine which most cle
 - Remove Stop Words
 - Vectorized in two ways to determine which would yield best clarity: 
   * **CountVectorizer:** Counts the number of times a word appears in a document (bag-of-words)
-  * **TF-IDF Vectorizer:** How many times a word appears in a document AND how relevant a word is to a document in a collection of documents. Helps in highlighting a word that is frequent in a document but not across documents
-
+  * **TF-IDF Vectorizer:** How many times a word appears in a document AND how relevant a word is to a document in a collection of documents. Some words are better distinguishers of the documents than highest freqency words. 
+  
 #### Topic Modeling 
 Created several models to compare and contrast:
 - [LSA with CountVectorizer & LSA with TF-IDF](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/2_TopicModel_LSA_CountVec_TDIF.ipynb)
