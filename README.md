@@ -33,6 +33,7 @@ Created several models to compare and contrast:
 - [LDA with Bigrams](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/4_TopicModel_LDA_Bigrams.ipynb)
 
 #### Sentiment Analysis with VADER
+- Analyze how VADER is doing on applying sentiment to this polarizing topic. Make sure its making sense. 
 - [Applied to entire conversation and individual topic](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/5_Sentiment_Analysis.ipynb)
 
 #### Findings
