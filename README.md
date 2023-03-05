@@ -22,12 +22,12 @@ The approach was to use several different algorithms to determine which most cle
 #### Preprocess the Text Data
 - Tokenize
 - Remove Stop Words
-- Vectorized in two ways to determine which would yield best topic clarity: 
+- Vectorized in two ways: 
   * **CountVectorizer:** Counts the number of times a word appears in a document (bag-of-words)
   * **TF-IDF Vectorizer:** The percent of the document that consists of a particular term (Term Frequency) AND heavier weighting of rare words. Use this approach because some words are better distinguishers of the documents than just highest freqency words. 
   
 #### Topic Modeling 
-Created several models to compare and contrast:
+Created several models using different dimensionality reduction techniques to determine which can yield the best topic clarity:
 - [LSA with CountVectorizer & LSA with TF-IDF](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/2_TopicModel_LSA_CountVec_TDIF.ipynb)
 - [LDA with CountVectorizer](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/3_TopicModel_LDA_CountVec.ipynb)
 - [LDA with Bigrams](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/4_TopicModel_LDA_Bigrams.ipynb)
