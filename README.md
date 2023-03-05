@@ -13,7 +13,7 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 - 35,000 Tweets / Retweets
 
 # Solution Path
-The approach was to use several different algorithms to determine which most clearly uncovers the different topics within the tweets. VADER sentiment ananlysis was applied to determine how it interpreted the sentiment of the conversation.
+The approach was to use several different algorithms to determine which most clearly uncovers the different topics within the tweets. VADER sentiment ananlysis was applied to determine how it interprets the sentiment of the conversation.
 
 #### [Get Tweets + Data Clean](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/1_Acquire_Data_PreProcess.ipynb)
 - Utilized Tweepy Python library to access Twitter API and acquire tweets
