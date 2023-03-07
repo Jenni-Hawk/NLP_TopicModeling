@@ -30,7 +30,6 @@ The approach was to use several different algorithms to determine which most cle
 Implemented matrix factorization and probabilistic algorithms along with different vectorizing approaches to determine which can result in best topic clarity:
 - [LSA with CountVectorizer & LSA with TF-IDF](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/2_TopicModel_LSA_CountVec_TDIF.ipynb)
 - [LDA with CountVectorizer](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/3_TopicModel_LDA_CountVec.ipynb)
-Utilized Gensim Phrases():
 - [LDA with Bigrams](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/4_TopicModel_LDA_Bigrams.ipynb)
 
 #### Sentiment Analysis with VADER
