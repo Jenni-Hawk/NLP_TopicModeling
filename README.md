@@ -32,7 +32,7 @@ Implemented matrix factorization and probabilistic algorithms along with differe
 - [LDA with CountVectorizer](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/3_TopicModel_LDA_CountVec.ipynb)
 - [LDA with Bigrams](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/4_TopicModel_LDA_Bigrams.ipynb) Utilized Gensim Phrases()
 - Strategic Approach to Bigrams:
-  * Based on my human, cursory review of the tweets I didn't see two word statements (or more) that were being used to communicate a specific idea within their writings. I wanted to see what a bigram algorithm could discover, therefore I kept the algorithm arguments broad. Also, being new to Phrases() I wanted to see what it could do with defaults and broad parameter selections.  
+  * Based on my human, cursory review of the tweets I didn't see two word statements (or more) that were being used to communicate a specific idea within their writings. I wanted to see what a bigram algorithm could discover, therefore I kept the algorithm arguments broad. Also, being new to Phrases() I wanted to see what it could do with defaults and broad hyperparameter selections.  
 
 #### Sentiment Analysis with VADER
 - Analyze how VADER is doing on applying sentiment to this polarizing conversation. Make sure its making sense. 
