@@ -36,8 +36,8 @@ Implemented matrix factorization and probabilistic algorithms along with differe
   * After reviewing some initial bigrams, I did extend the stop word list for this algorithm
 
 #### Sentiment Analysis with VADER
-- Analyze how VADER is doing on applying sentiment to this polarizing conversation. Make sure its making sense. 
 - [Applied to entire conversation and individual topic](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/5_Sentiment_Analysis.ipynb)
+- Analyzed how VADER was interpreting the conversation. From a human perspective were the negative and positive ratings making sense? 
 
 #### Findings
 Check out the [presentation](https://github.com/Jenni-Hawk/NLP_TopicModeling/blob/main/NLP_Presentation.pdf)
