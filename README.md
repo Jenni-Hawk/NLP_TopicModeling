@@ -5,9 +5,8 @@ Natural Language Processing and Topic Modeling with a breadth of algorithms
 - Since Twitter is a major conversation platform, The Washington Post would like to understand the topics that are trending within the January 6th Committee Hearings to get potential story ideas.
 
 # Key Questions to Answer
-- What topics were most tweeted about during the Oct 13th hearing?
-- What was the primary topic associated with Trump?
-- What was the sentiment of the primary topic associated with Trump?
+- What topics were tweeted about during the Oct 13th hearing?
+- What was the sentiment of the conversation?
 
 # Data
 - 35,000 Tweets / Retweets
