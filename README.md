@@ -1,5 +1,6 @@
 # NLP_TopicModeling
-Natural Language Processing and Topic Modeling with a breadth of algorithms
+This was my first Natural Language Processing and Topic Modeling project using a breadth of classic NLP algorithms. 
+A follow up to this project that implements advanced, modern-day techniques can be found [here](https://github.com/Jenni-Hawk/Advanced_Topic_Modeling_Tweets/blob/main/README.md). 
 
 # Client / Background
 - Since Twitter is a major conversation platform, The Washington Post would like to understand the topics that are trending within the January 6th Committee Hearings to get potential story ideas.
